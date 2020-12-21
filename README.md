@@ -2,8 +2,8 @@
     bertini36/tailwind-hot-reloader-docker 🐳
 </h3>
 
-![Docker Automated build](https://img.shields.io/docker/automated/bertini36/tailwind-hot-reloader)
-![Docker Build Status](https://img.shields.io/docker/build/bertini36/tailwind-hot-reloader)
+![Docker Automated build](https://img.shields.io/docker/cloud/automated/bertini36/tailwind-hot-reloader)
+![Docker Build Status](https://img.shields.io/docker/cloud/build/bertini36/tailwind-hot-reloader)
 
 ## 🚀️ Setup
 
@@ -36,4 +36,4 @@ module.exports = {
 ```
 
 <br />
-<p align="center">&mdash; Built with :heart: from Mallorca &mdash;</p>
+<p align="center">&mdash; Built with ❤️ from Mallorca &mdash;</p>
