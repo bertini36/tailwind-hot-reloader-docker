@@ -1,6 +1,7 @@
 <h3 align="center">
     bertini36/tailwind-hot-reloader-docker 🐳
 </h3>
+
 ![Docker Automated build](https://img.shields.io/docker/automated/bertini36/tailwind-hot-reloader)
 ![Docker Build Status](https://img.shields.io/docker/build/bertini36/tailwind-hot-reloader)
 
