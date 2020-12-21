@@ -25,5 +25,15 @@ input and output css files in the command tag.
     command: postcss public/css/input.css -o public/css/output.css -w
 ```
 
+Your `postcss.config.js` file should look like this
+```
+module.exports = {
+  plugins: [
+    require('tailwindcss'),
+    require('autoprefixer'),
+  ]
+}
+```
+
 <br />
 <p align="center">&mdash; Built with :heart: from Mallorca &mdash;</p>
